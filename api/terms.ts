@@ -1,7 +1,8 @@
 import { Term } from "@/.data/types";
+import { NU_COURSES_API_URL } from "@/api/base-url";
 
 export async function getTerms() {
-  const response = await fetch(`https://nu-courses.deno.dev/terms`);
+  const response = await fetch(`${NU_COURSES_API_URL}/terms`);
 
   if (!response.ok) throw new Error(`Error in fetching terms }`);
 
@@ -10,7 +11,7 @@ export async function getTerms() {
 }
 
 export async function getTerm(termCode: string) {
-  const response = await fetch(`https://nu-courses.deno.dev/terms/${termCode}`);
+  const response = await fetch(`${NU_COURSES_API_URL}/terms/${termCode}`);
 
   if (!response.ok) throw new Error(`Error in fetching term ${termCode}`);
 

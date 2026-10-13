@@ -1,7 +1,8 @@
 import { Section } from "@/.data/types";
+import { NU_COURSES_API_URL } from "@/api/base-url";
 
 export const getSectionsForCourse = async (termCode: string, subjectCode: string, courseNumber: string) => {
-  const response = await fetch(`https://nu-courses.deno.dev/sections/${termCode}/${subjectCode}/${courseNumber}`, {
+  const response = await fetch(`${NU_COURSES_API_URL}/sections/${termCode}/${subjectCode}/${courseNumber}`, {
     method: "GET",
     headers: {
       "Content-Type": "application/json",
@@ -15,7 +16,7 @@ export const getSectionsForCourse = async (termCode: string, subjectCode: string
 };
 
 export const getSection = async (termCode: string, crn: string) => {
-  const response = await fetch(`https://nu-courses.deno.dev/sections/${termCode}/${crn}`, {
+  const response = await fetch(`${NU_COURSES_API_URL}/sections/${termCode}/${crn}`, {
     method: "GET",
     headers: {
       "Content-Type": "application/json",
@@ -32,7 +33,7 @@ export const getMultipleSections = async (termCode: string, crns: string[]) => {
   const queryParams = new URLSearchParams();
   crns.forEach((crn) => queryParams.append("crn", crn));
 
-  const response = await fetch(`https://nu-courses.deno.dev/sections/${termCode}?` + queryParams.toString(), {
+  const response = await fetch(`${NU_COURSES_API_URL}/sections/${termCode}?` + queryParams.toString(), {
     method: "GET",
     headers: {
       "Content-Type": "application/json",

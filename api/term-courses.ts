@@ -1,10 +1,11 @@
 import { TermSubjectCourseMapping } from "@/.data/types";
+import { NU_COURSES_API_URL } from "@/api/base-url";
 
 export const getTermCourses = async (
   termCode: string
 ): Promise<TermSubjectCourseMapping> => {
   const response = await fetch(
-    `https://nu-courses.deno.dev/mapping/term-courses/${termCode}`,
+    `${NU_COURSES_API_URL}/mapping/term-courses/${termCode}`,
     {
       method: "GET",
       headers: {

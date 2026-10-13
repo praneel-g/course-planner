@@ -1,7 +1,8 @@
 import { Course, SubjectWithCourseCount, TermSubjectCourseMapping } from "@/.data/types";
+import { NU_COURSES_API_URL } from "@/api/base-url";
 
 export const getSubjectsForTerm = async (termCode: string) => {
-  const response = await fetch(`https://nu-courses.deno.dev/courses/${termCode}`, {
+  const response = await fetch(`${NU_COURSES_API_URL}/courses/${termCode}`, {
     method: "GET",
     headers: {
       "Content-Type": "application/json",
@@ -15,7 +16,7 @@ export const getSubjectsForTerm = async (termCode: string) => {
 };
 
 export const getCoursesForTerm = async (termCode: string, subjectCode: string) => {
-  const response = await fetch(`https://nu-courses.deno.dev/courses/${termCode}/${subjectCode}`, {
+  const response = await fetch(`${NU_COURSES_API_URL}/courses/${termCode}/${subjectCode}`, {
     method: "GET",
     headers: {
       "Content-Type": "application/json",
@@ -29,7 +30,7 @@ export const getCoursesForTerm = async (termCode: string, subjectCode: string) =
 };
 
 export const getCourse = async (subjectCode: string, courseNumber: string) => {
-  const response = await fetch(`https://nu-courses.deno.dev/courses/all/${subjectCode}/${courseNumber}`, {
+  const response = await fetch(`${NU_COURSES_API_URL}/courses/all/${subjectCode}/${courseNumber}`, {
     method: "GET",
     headers: {
       "Content-Type": "application/json",
@@ -43,7 +44,7 @@ export const getCourse = async (subjectCode: string, courseNumber: string) => {
 };
 
 export async function getCourses(subjectCode: string) {
-  const response = await fetch(`https://nu-courses.deno.dev/courses/all/${subjectCode}`, {
+  const response = await fetch(`${NU_COURSES_API_URL}/courses/all/${subjectCode}`, {
     method: "GET",
     headers: {
       "Content-Type": "application/json",
