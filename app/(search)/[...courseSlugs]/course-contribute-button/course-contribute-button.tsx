@@ -1,18 +1,14 @@
 import { Course } from "@/.data/types";
-import { getNotionCoursePage } from "../functions";
-import { CourseContributeDialog } from "./course-contribute-dialog";
+import { getCourseNotesEditUrl } from "@/content/course-notes";
 import { getCourseGoogleFormHref } from "@/course/functions";
+import { CourseContributeDialog } from "./course-contribute-dialog";
 
 export async function CourseContributeButton({ course }: { course: Course }) {
-  const page = await getNotionCoursePage(course)!;
   const googleFormUrl = getCourseGoogleFormHref(course);
-  // @ts-ignore
-  const notionUrl = page!.public_url
+  const githubUrl = await getCourseNotesEditUrl(course);
   return (
-    <>
-      <CourseContributeDialog googleFormUrl={googleFormUrl} notionUrl={notionUrl}>
-        <button className="underline text-sm">contribute</button>
-      </CourseContributeDialog>
-    </>
+    <CourseContributeDialog googleFormUrl={googleFormUrl} githubUrl={githubUrl}>
+      <button className="underline text-sm">contribute</button>
+    </CourseContributeDialog>
   );
 }

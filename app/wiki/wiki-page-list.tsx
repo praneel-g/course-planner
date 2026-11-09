@@ -3,8 +3,8 @@
 import { Select } from "@/components/form/select";
 import { Title } from "@/components/title";
 import { UniversalLink } from "@/components/universal-link";
-import { Category } from "@/notion/categories";
-import { WikiArticle } from "@/notion/wiki";
+import { Category } from "@/content/categories";
+import { WikiArticle } from "@/content/wiki";
 import { useEffect } from "react";
 import { useForm } from "react-hook-form";
 

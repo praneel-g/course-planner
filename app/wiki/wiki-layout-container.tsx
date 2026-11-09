@@ -1,11 +1,11 @@
 "use client";
 
 import { UniversalLink } from "@/components/universal-link";
-import { WikiArticle } from "@/notion/wiki";
+import { WikiArticle } from "@/content/wiki";
 import { usePathname } from "next/navigation";
 import { ReactNode } from "react";
 import { WikiPageList } from "./wiki-page-list";
-import { Category } from "@/notion/categories";
+import { Category } from "@/content/categories";
 import { Navbar } from "@/components/navbar";
 
 export function WikiPageLayoutContainer({

@@ -2,12 +2,11 @@
 const nextConfig = {
   experimental: {
     appDir: true,
-  },
-  images: {
-    domains: ["s3.us-west-2.amazonaws.com"],
-    remotePatterns: [
-      { protocol: "https", hostname: "s3.us-west-2.amazonaws.com", port: "", pathname: "secure.notion-static.com" },
-    ],
+    // Wiki pages and course notes read their Markdown from disk when
+    // rendered, so make sure the files ship with the server build.
+    outputFileTracingIncludes: {
+      "/**": ["./content/pages/*.md", "./content/courses/*.md"],
+    },
   },
 };
 

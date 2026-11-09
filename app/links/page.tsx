@@ -1,5 +1,5 @@
-import { getLinksCategories } from "@/notion/categories";
-import { getLinks } from "@/notion/links";
+import { getLinksCategories } from "@/content/categories";
+import { getLinks } from "@/content/links";
 import { LinksDisplay } from "./links-display";
 
 export default async function HubPage() {

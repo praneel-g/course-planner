@@ -1,12 +1,9 @@
-import { getBlocksChildrenList } from "@/api/notion";
-import { NotionPage } from "@/components/notion/page";
+import { MarkdownContent } from "@/components/markdown/markdown-content";
 import { TransparentHeader } from "@/components/sticky-transparent-header";
 import { SubPageBackButton } from "@/components/sub-page-back-button";
 import { Title } from "@/components/title";
-import { getNotionPageMentions } from "@/notion/mentions";
-import { getWikiArticleBySlug } from "@/notion/wiki";
+import { getWikiArticleBySlug, getWikiArticleMarkdown } from "@/content/wiki";
 import { formatDate } from "@/utils/date/display";
-import { BlockObjectResponse } from "@notionhq/client/build/src/api-endpoints";
 
 export const revalidate = 100;
 
@@ -17,8 +14,7 @@ interface Props {
 export default async function WikiPage({ params }: Props) {
   const slug = params.slugs[0];
   const page = await getWikiArticleBySlug(slug);
-  const pageBlocks = await getBlocksChildrenList(page.id);
-  const pageMentions = await getNotionPageMentions(page.id);
+  const markdown = await getWikiArticleMarkdown(page.slug);
 
   const { metadata } = page;
 
@@ -37,8 +33,7 @@ export default async function WikiPage({ params }: Props) {
         <hr className="mt-4" />
 
         <article className="mt-4">
-          {/* @ts-ignore */}
-          <NotionPage blocks={pageBlocks.results as BlockObjectResponse[]} mentions={pageMentions} />
+          <MarkdownContent markdown={markdown ?? ""} />
         </article>
 
         {metadata && (

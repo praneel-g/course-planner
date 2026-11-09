@@ -3,19 +3,17 @@
 import { Title } from "@/components/title";
 import { UniversalLink } from "@/components/universal-link";
 import * as Dialog from "@radix-ui/react-dialog";
-import Image from "next/image";
 import { ReactNode } from "react";
-import notionCommentInstructionsImage from "@/public/images/courses/notion-comment.png";
 import { FaCross, FaTimes } from "react-icons/fa";
 
 export function CourseContributeDialog({
   children,
   googleFormUrl,
-  notionUrl,
+  githubUrl,
 }: {
   children: ReactNode;
   googleFormUrl: string;
-  notionUrl: string;
+  githubUrl: string;
 }) {
   return (
     <Dialog.Root>
@@ -36,7 +34,7 @@ export function CourseContributeDialog({
             </Dialog.Title>
             <Dialog.Description asChild>
               <div className="space-y-2">
-                <p>Contribute by filling out a Google Form or commenting on a public Notion page:</p>
+                <p>Contribute by filling out a Google Form or editing the course notes on GitHub:</p>
                 <p>
                   <ul className="ml-8 list-disc">
                     <li>
@@ -45,17 +43,11 @@ export function CourseContributeDialog({
                       </UniversalLink>
                     </li>
                     <li>
-                      <UniversalLink href={notionUrl} className="underline">
-                        Notion page
+                      <UniversalLink href={githubUrl} className="underline">
+                        Course notes on GitHub
                       </UniversalLink>
                     </li>
                   </ul>
-                </p>
-                <p>
-                  To contribute on Notion, click on the Notion page link above, then add a comment with your changes:
-                </p>
-                <p>
-                  <Image src={notionCommentInstructionsImage} alt="Notion page comment button" className="rounded" />
                 </p>
               </div>
             </Dialog.Description>

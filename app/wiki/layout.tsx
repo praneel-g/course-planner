@@ -1,7 +1,7 @@
-import { getWikiArticles } from "@/notion/wiki";
+import { getWikiArticles } from "@/content/wiki";
 import { ReactNode } from "react";
 import { WikiPageLayoutContainer } from "./wiki-layout-container";
-import { getWikiCategories } from "@/notion/categories";
+import { getWikiCategories } from "@/content/categories";
 
 export const revalidate = 1000;
 

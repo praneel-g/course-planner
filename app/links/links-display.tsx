@@ -2,11 +2,10 @@
 
 import { Empty } from "@/components/Empty";
 import { LinkButton } from "@/components/link/link-button";
-import { NotionIconDisplay } from "@/components/notion/icon";
 import { Title } from "@/components/title";
 import { UniversalLink } from "@/components/universal-link";
-import { Category } from "@/notion/categories";
-import { HuskerLink } from "@/notion/links";
+import { Category } from "@/content/categories";
+import { HuskerLink } from "@/content/links";
 import { useState } from "react";
 import { FaArrowRight, FaCaretRight } from "react-icons/fa";
 
@@ -56,7 +55,6 @@ export function LinksDisplay({
                 <LinkButton
                   size="sm"
                   href={link.url}
-                  // iconLeft={link.icon && <NotionIconDisplay icon={link.icon} className="w-4" />}
                   title={link.title}
                 />
               );
@@ -105,7 +103,6 @@ export function LinksDisplay({
                       return (
                         <LinkButton
                           href={courseLink.url}
-                          // iconLeft={courseLink.icon && <NotionIconDisplay icon={courseLink.icon} className="w-5" />}
                           title={courseLink.title}
                         />
                       );
