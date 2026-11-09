@@ -37,4 +37,4 @@ TODO
 
 - [Housing FAQ](/wiki/housing-faq)
 - [Housing Rates](/wiki/housing-rates)
-- [On-campus housing cancelation, deadlines, and and fee petition](https://www.northeastern.edu/housing/cancellation-deadlines/)
+- [On-campus housing cancelation, deadlines, and and fee petition](https://housing.northeastern.edu/cancellation-deadlines/)

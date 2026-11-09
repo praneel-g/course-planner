@@ -4,7 +4,7 @@
 
 Husky card on your phone.
 
-- [Website](https://www.northeastern.edu/huskycard/about/mobile-id-app/)
+- [Website](https://huskycard.northeastern.edu/mobile-id-app/)
 - [App Store](https://apps.apple.com/us/app/cbord-mobile-id-for-cs-gold/id568142966)
 - [Play Store](https://play.google.com/store/apps/details?id=com.cbord.csg.mobileid&hl=en)
 
@@ -41,14 +41,14 @@ SAIL has been decommissioned. What's SAIL?
 
 Safe rides off campus: service from Snell Library to your off-campus residence within a 2-mile radius.
 
-- [Website](https://mailchi.mp/616e8cc050a8/introducing-the-brand-new-redeye-app-2882765)
-- [Play Store](https://play.google.com/store/apps/details?id=northeastern.redeye&hl=en_US&gl=US)
-- [App Store](https://apps.apple.com/us/app/northeastern-redeye/id1474543138)
+- [Website](https://neu.helpscoutdocs.com/article/761-safety)
+- [Play Store](https://play.google.com/store/apps/details?id=com.liftango.northeastern)
+- [App Store](https://apps.apple.com/us/app/northeastern-university-redeye/id6749658752)
 
 ### Duo
 
 2FA.
 
-- [Website](https://www.get2fa.northeastern.edu/how-to-enroll-in-2fa/)
+- [Website](https://security.its.northeastern.edu/mfa/)
 - [App Store](https://apps.apple.com/us/app/duo-mobile/id422663827)
 - [Play Store](https://play.google.com/store/apps/details?id=com.duosecurity.duomobile&hl=en_SG&gl=US)

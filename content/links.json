@@ -104,7 +104,7 @@
   {
     "id": "543f40bc-1486-4f6b-8bb9-e734096f002a",
     "title": "Office 365",
-    "url": "https://www.office.com/",
+    "url": "https://www.microsoft365.com/",
     "description": "Microsoft services",
     "iconSlug": "FaFile",
     "categoryIds": [
@@ -116,7 +116,7 @@
   {
     "id": "214ba5b3-6b37-47c9-933e-2036e9f85b84",
     "title": "Time Ticketing",
-    "url": "https://registrar.northeastern.edu/article/time-ticketing/",
+    "url": "https://service.northeastern.edu/registrar?id=kb_article_view&sysparm_article=KB000021276",
     "description": "Find course registration time",
     "iconSlug": "FaFile",
     "categoryIds": [
@@ -242,7 +242,7 @@
   {
     "id": "8bbe73d2-7a9a-45ce-8842-50fba4977f7e",
     "title": "Husker Gym",
-    "url": "https://gym.husker.nu/",
+    "url": "https://husker-gym.vercel.app/",
     "description": "View best times to visit gyms",
     "iconSlug": "FaDumbbell",
     "categoryIds": [
@@ -399,7 +399,7 @@
   {
     "id": "2bdfd188-4d94-4dd7-b76a-862ee58de1c0",
     "title": "NUpath Dashboard",
-    "url": "https://www.northeastern.edu/core/dashboard/",
+    "url": "https://core.northeastern.edu/",
     "description": "NUpath and courses dashboard",
     "iconSlug": "FaBookmark",
     "categoryIds": [
@@ -424,7 +424,7 @@
   {
     "id": "d9344ea4-a850-4eaf-93f8-e737374f6ec0",
     "title": "Registrar Forms",
-    "url": "https://northeastern.secure.force.com/public/apex/ITSASCMainEntry",
+    "url": "https://registrar.northeastern.edu/types/form/",
     "description": "Various registrar forms",
     "iconSlug": "FaFile",
     "categoryIds": [
@@ -461,7 +461,7 @@
   {
     "id": "bc516aa3-ef3d-42a9-aac7-ce8a9ce14005",
     "title": "Floor Plans",
-    "url": "https://www.northeastern.edu/housing/dnaesantoelrihtriseertn/",
+    "url": "https://housing.northeastern.edu/dnaesantoelrihtriseertn/",
     "description": "View floor plans for on-campus housing",
     "iconSlug": "FaFile",
     "categoryIds": [
@@ -524,7 +524,7 @@
   {
     "id": "fb69371b-49f1-46c5-8d28-5a5456853170",
     "title": "On-Campus Vendors",
-    "url": "https://www.northeastern.edu/huskycard/vendors/on-campus-vendors/",
+    "url": "https://huskycard.northeastern.edu/on-campus-vendors/",
     "description": "Where to use dining dollars on campus",
     "iconSlug": "FaFile",
     "categoryIds": [
@@ -549,7 +549,7 @@
   {
     "id": "27fcb4ef-670a-4164-9410-6fc1e79691f9",
     "title": "Off-Campus Vendors",
-    "url": "https://www.northeastern.edu/huskycard/vendors/off-campus-vendors/",
+    "url": "https://huskycard.northeastern.edu/off-campus-vendors/",
     "description": "Where to use dining dollars off campus",
     "iconSlug": "FaFile",
     "categoryIds": [
@@ -634,7 +634,7 @@
   {
     "id": "875e25b4-75c8-4d5b-89cf-63475dcf6b1f",
     "title": "DRC services",
-    "url": "https://northeastern.secure.force.com/public/apex/ITSDRCMainEntry",
+    "url": "https://disabilityaccessservices.northeastern.edu/registeredstudents/",
     "description": "Disability Resource Center",
     "iconSlug": "FaFile",
     "categoryIds": [
@@ -646,7 +646,7 @@
   {
     "id": "7fa91211-4b3e-44e8-823f-698587e45d7e",
     "title": "Clubs",
-    "url": "https://neu.campuslabs.com/engage/",
+    "url": "https://engage.northeastern.edu/",
     "description": "Northeastern Engage",
     "iconSlug": "FaFile",
     "categoryIds": [

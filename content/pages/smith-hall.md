@@ -1,4 +1,4 @@
-- [Dorm specifications](https://northeastern.edu/housing/smith-hall)
+- [Dorm specifications](https://housing.northeastern.edu/smith-hall/)
 
 ## Images
 

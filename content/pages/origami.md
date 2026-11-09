@@ -3,7 +3,7 @@
 
 - [Join Slack](https://join.slack.com/t/increaseorigamiclub/shared_invite/zt-2cgjqeut1-yDT7Y4CVezwnCsLWlb1ZaA)
 - [Follow us on Instagram](https://www.instagram.com/increaseorigami/)
-- [Join us on Engage](https://neu.campuslabs.com/engage/organization/increase)
+- [Join us on Engage](https://engage.northeastern.edu/)
 - [📚 Check out our books and diagrams](https://drive.google.com/drive/u/0/folders/1AYjig8IqaPu3vnE3c8jkASNIMEaMZD3l)
 
 ## Please scan if you are here

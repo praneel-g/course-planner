@@ -1,4 +1,4 @@
-- [Dorm specifications](https://northeastern.edu/housing/speare-hall)
+- [Dorm specifications](https://housing.northeastern.edu/speare-hall/)
 
 ## Links
 

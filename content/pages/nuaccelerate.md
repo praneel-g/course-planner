@@ -1,6 +1,6 @@
 ## Quicklinks
 
-- [NU Accelerate website](https://precollegeprograms.northeastern.edu/nuaccelerate/)
+- [NU Accelerate website](https://ug-admissions.sites.northeastern.edu/nu-accelerate/)
 
 ## **About**
 
@@ -10,7 +10,7 @@ It is recommended to complete these one course in the Spring, and the other in t
 
 ## **Courses**
 
-To find a list of courses you can complete, look for the "Course Catalog" links on the [NU Accelerate website](https://precollegeprograms.northeastern.edu/nuaccelerate/).
+To find a list of courses you can complete, look for the "Course Catalog" links on the [NU Accelerate website](https://ug-admissions.sites.northeastern.edu/nu-accelerate/).
 
 To receive credit for these courses, a grade of **C or above** is required. The courses will be listed as **transfer credit** on the university transcript. These courses **do not count towards the GPA**.
 

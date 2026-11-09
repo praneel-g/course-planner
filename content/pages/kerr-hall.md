@@ -1,4 +1,4 @@
-- [Dorm specifications](https://northeastern.edu/housing/kerr-hall)
+- [Dorm specifications](https://housing.northeastern.edu/kerr-hall/)
 
 ## Images
 

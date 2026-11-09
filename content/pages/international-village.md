@@ -1,4 +1,4 @@
-- [Dorm specifications](https://northeastern.edu/housing/international-village)
+- [Dorm specifications](https://housing.northeastern.edu/international-village/)
 - 1-, 2-, 3-person suites (singles, doubles, forced doubles, forced triples)
 - Lounges on every floor
 - Printer on first-floor lobby

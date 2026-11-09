@@ -1,4 +1,4 @@
-- [Dorm specifications](https://northeastern.edu/housing/melvin-hall)
+- [Dorm specifications](https://housing.northeastern.edu/melvin-hall/)
 - 1-, 2-, 3-person bedrooms (standard and economy singles, doubles, triples)
 - 5 single occupancy bathrooms on every floor (not like communal), provides extra privacy
 - Only common area is the basement

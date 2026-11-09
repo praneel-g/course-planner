@@ -1,4 +1,4 @@
-- [Dorm specifications](https://northeastern.edu/housing/153-hemenway-street)
+- [Dorm specifications](https://housing.northeastern.edu/153-hemenway-street/)
 - 2-, 3-, 4-person apartments
   - Standard double bedrooms
   - Economy double bedrooms

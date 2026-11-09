@@ -39,7 +39,7 @@ There is a table that contains the "due date” (deadline) and “current due”
 
 ### Where can I view loans?
 
-[Nelnet](https://secure.nelnet.com/account/login).
+[Nelnet](https://studentaid.gov/manage-loans/repayment/servicers).
 
 ### Where can I view all my financial holds?
 

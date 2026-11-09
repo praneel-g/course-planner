@@ -1,4 +1,4 @@
-- [Dorm specifications](https://northeastern.edu/housing/stetson-hall-west)
+- [Dorm specifications](https://housing.northeastern.edu/stetson-hall-west/)
 
 ## Images
 

@@ -1,4 +1,4 @@
-- [Dorm specifications](https://northeastern.edu/housing/east-village)
+- [Dorm specifications](https://housing.northeastern.edu/east-village/)
 
 ## Images
 

@@ -3,21 +3,19 @@
 
 This website aims to share links and resources related to Northeastern University.
 
-Some pages have more information. For example, the [Housing](https://www.husker.nu/house) page, which contains a list of all dorms. I aim to have an FAQ on every page for questions commonly asked on Discord or Reddit. Some pages already have an FAQ page, for example, the [Financial page](https://www.husker.nu/financial).
+Some pages have more information. For example, the [Housing](/wiki/housing) page, which contains a list of all dorms. I aim to have an FAQ on every page for questions commonly asked on Discord or Reddit. Some pages already have an FAQ page, for example, the [Financial page](/wiki/financial-faq).
 
-I suggest getting started by going to the [Main links page](https://www.husker.nu/). Here you will find useful links related to different categories. If you want to view more about a topic, click on the "more" button on the right side of the heading.
+I suggest getting started by going to the [Main links page](/). Here you will find useful links related to different categories. If you want to view more about a topic, click on the "more" button on the right side of the heading.
 
-While Husker was created with the intention of sharing links, it is clear that sharing more information (more text content) is something the school requires. There are some "content-heavy" pages in the works too, such as [the programs page](https://www.husker.nu/programs). If you'd like to help with these, let me know!
+While Husker was created with the intention of sharing links, it is clear that sharing more information (more text content) is something the school requires. There are some "content-heavy" pages in the works too, such as [the programs page](/wiki/programs). If you'd like to help with these, let me know!
 
 ## Contribute
 
-There are a few ways to contribute. The quickest way is to head over to [the contribute page](https://www.husker.nu/contribute) and fill out the form. Every page has an "Edit" button right underneath the title, so you can use that too.
+There are a few ways to contribute. The quickest way is to head over to [the contribute page](/contribute) and fill out the form. Every page has an "Edit" button right underneath the title, so you can use that too.
 
 If you would like to contribute through Discord, join the [Husker Discord Server](https://discord.gg/j7WkFct2rY)! You can also message me [on Reddit](https://www.reddit.com/user/mapuniverse).
 
-If you know how to code, you may also open an issue or pull request on the [GitHub repository](https://github.com/ninest/huskinfo).
-
-Also see the [contact page](https://www.husker.nu/contact).
+If you know how to code, you may also open an issue or pull request on the [GitHub repository](https://github.com/ninest/husker).
 
 ## Storage
 

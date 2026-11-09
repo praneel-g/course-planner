@@ -1,4 +1,4 @@
-- [Dorm specifications](https://northeastern.edu/housing/hastings-hall)
+- [Dorm specifications](https://housing.northeastern.edu/hastings-hall/)
 
 ## Videos
 

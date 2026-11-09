@@ -25,7 +25,7 @@ Check out [Northeastern's library](https://library.northeastern.edu/resource_di
 
 - [Wall Street Journal](https://wsj.com/northeastern)
 - [Washington Post](https://subscribe.washingtonpost.com/acqlite/edu-offer/): $5 per month (50% discount).
-- [New York Times](https://nytimesineducation.com/access-nyt/northeastern-university-boston-ma/): Free access to NYT. If you already pay, cancel the subscription by emailing [customercare@nytimes.com](mailto:customercare@nytimes.com) or calling 800-591-9233
+- [New York Times](https://www.nytimes.com/activate-access/edu-access): Free access to NYT. If you already pay, cancel the subscription by emailing [customercare@nytimes.com](mailto:customercare@nytimes.com) or calling 800-591-9233
 
 ## **Shopping**
 
@@ -49,7 +49,7 @@ Check out [Northeastern's library](https://library.northeastern.edu/resource_di
 - [Spotify](https://www.spotify.com/us/student/): Discounted Spotify Premium, Hulu, and Showtime.
 - [YouTube Premium](https://support.google.com/youtube/answer/9158808?hl=en&co=GENIE.Platform%3DAndroid)
 - [PeacockTV](https://www.peacocktv.com/): Log in through Xfinity.
-- [Kanopy](https://northeastern.kanopy.com/category/56)
+- [Kanopy](https://www.kanopy.com/northeastern/category/56)
 
 ## **Apps and services**
 
@@ -61,10 +61,10 @@ Check out [Northeastern's library](https://library.northeastern.edu/resource_di
 - [OnTheHub](https://neu.onthehub.com/WebStore/Security/SignIn.aspx?rurl=%2FWebStore%2FProductsByMajorVersionList.aspx%3F): Free and discounted software (VMware, Windows, and more).
 - [JetBrains IDEs](https://www.jetbrains.com/community/education/): Free education license.
 - [Azure](https://azureforeducation.microsoft.com/devtools)
-- [Notion](https://www.notion.so/product/notion-for-education): Students get the pro plan for free. Did you know that this content is on Notion?
+- [Notion](https://www.notion.com/product/notion-for-education): Students get the pro plan for free. Did you know that this content is on Notion?
 - [Craft.do](https://dollarflightclub.com/student-and-teachers-discount/): Free 1-year license for students and teachers, reapply every 1 year for 5 years.
 - [Figma](https://www.figma.com/education/)
-- [Lucidchart](https://lucidco.zendesk.com/hc/en-us/articles/360049831771-Get-Started-with-an-Educational-Account): Free with .edu email address.
+- [Lucidchart](https://help.lucid.co/hc/en-us/articles/360049831771-Sign-up-for-a-free-Educational-account): Free with .edu email address.
 - [Milanote](https://help.milanote.com/en/articles/3600867-can-i-have-a-discount): Contact support for a discount.
 - [Wolfram Alpha](https://www.wolframalpha.com/pro/pricing/students): Discounted for students: $5 for students, $7.25 per month otherwise Mathematica also discounted for students.
 

@@ -1,3 +1,3 @@
-- [First Year Rates](https://housing.northeastern.edu/wp-content/uploads/2023/06/First-Year-Rates-20232024.pdf)
-- [Upperclassmen Rates](https://housing.northeastern.edu/wp-content/uploads/2023/07/Upperclass-Rates-20232024.pdf)
+- [First Year Rates](https://housing.northeastern.edu/wp-content/uploads/2026/06/First-Year-Rates-26-27.pdf)
+- [Upperclassmen Rates](https://housing.northeastern.edu/wp-content/uploads/2026/06/Upperclass-Rates-26-27.pdf)
 - Graduate/Law: Housing is no longer being provided
